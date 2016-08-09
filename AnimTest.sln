@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimTest.CSharp", "AnimTest.CSharp.csproj", "{F43DE081-2232-B656-20CF-84A02BA9CD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43DE081-2232-B656-20CF-84A02BA9CD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43DE081-2232-B656-20CF-84A02BA9CD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43DE081-2232-B656-20CF-84A02BA9CD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43DE081-2232-B656-20CF-84A02BA9CD48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

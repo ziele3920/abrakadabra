@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df8a066dd3a2cc740a1c15fb1eaf8387
+timeCreated: 1456562367
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Walk: {fileID: 11460594, guid: bc560ff09a66c8543988dbde02def31e, type: 2}
+  - WalkLeft: {fileID: 11442520, guid: 99517481e6a879d4f98d765e34a097a3, type: 2}
+  - WalkRight: {fileID: 11426650, guid: afd07ccd17969c04c802a651dba17e43, type: 2}
+  - StandTurnLeft: {fileID: 11407568, guid: 690a0967b7e2824478c6868eba3341df, type: 2}
+  - StandTurnRight: {fileID: 11430908, guid: fb193fdbf73c6454ea28b8454d8ba66c, type: 2}
+  - StandIdle: {fileID: 11443382, guid: 0ca60849784d6c74c8e833e3caea71b1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
